@@ -3,7 +3,7 @@
 
 ### Your list should look like this:
 #### Things we understand**
-1.  
+1.  How to build a Docker Image[1]
 2.  
 3.  
 #### Things we don't understand
