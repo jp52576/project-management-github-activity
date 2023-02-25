@@ -12,8 +12,8 @@
 3. How all the different parts of Git connect to each other[1]
 #### Things we want to know next**
 1.  HTML coding best practices[1]
-2.  How to create automated testing of HTML
-3.  
+2.  How to create automated testing of HTML[1]
+3.  HTML optimization tools[1]
 
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
