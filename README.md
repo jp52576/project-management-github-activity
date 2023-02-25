@@ -4,7 +4,7 @@
 ### Your list should look like this:
 #### Things we understand**
 1.  How to build a Docker Image[1]
-2.  
+2.  How to start a Docker container[1]
 3.  
 #### Things we don't understand
 1. Who is submitting what things on Git[1]
